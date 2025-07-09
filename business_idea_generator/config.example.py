@@ -2,7 +2,7 @@
 # Copy this to config.py and add your API key
 
 # Your Gemini API key
-GEMINI_API_KEY = "your_api_key_here"
+GEMINI_API_KEY = "AIzaSyCSB3ScXrhf4pXWi-XGnC-LSkTlUwdCk68"
 
 # Example domains to try
 EXAMPLE_DOMAINS = [
